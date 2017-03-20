@@ -1,3 +1,3 @@
-# ScrollButton_alt1170
+# fortune teller
 
-Script for FortuneTeller
+teensy code to drive pixel matrix triggered by capacitive touch and mpr121
